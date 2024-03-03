@@ -16,3 +16,6 @@
 
 # Ignore Substance Painter autosaves
 **/*_autosave_*.spp
+
+# Ignore Substance Designer autosaves
+**/.autosave/*.sbs
